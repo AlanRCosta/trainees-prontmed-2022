@@ -37,6 +37,7 @@ Shows details about andretanaka user.
 - Use any additional library;
 - Use Typescript;
 - Use Styled Components;
+- Use Axios;
 - Use Google;
 
 ## Submission instructions
@@ -45,7 +46,7 @@ Shows details about andretanaka user.
 
 ## Bonus
 
-- Host the website on the service of your choice;
+- Host the website on the service of your choice (Github Pages, Heroku);
 - Create a search field to filter the commits by the term inserted into the field;
 - Show us your work through your commit history;
 - Custom Hooks;
