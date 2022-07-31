@@ -8,48 +8,47 @@ This is a front end code challenge designed to assess the ability of a trainee c
 We wish you the best of luck!
 
 Thanks,
-Sciensa Front end developers (Jaqueline & Rodrigo Pará)
+Prontmed Front end developers (André and Jorge)
 
 ## Overview 
 
-Your challenge is to build a reactjs app that connects to the Github API (https://developer.github.com/v3/) and list all public repositories from your user, if you don't have any repository, select another user.
+Your challenge is to build a reactjs app that connects to the Github API (https://docs.github.com/en/rest) and list all public repositories from your user, if you don't have any repository, select another user.
 
-Example: https://api.github.com/users/kimmikirino/repos
-The route above shows all repositories of kimmikirino user.
+Example: https://api.github.com/users/andretanaka/repos
+The route above shows all repositories of andretanaka user.
 
-https://api.github.com/users/kimmikirino
-Shows details about kimmikirino user.
+https://api.github.com/users/andretanaka
+Shows details about andretanaka user.
 
 ## Rules
 
 - Show user information (name, stars, photo, followers, or any field you think is important);
 - Show user repositories;
+- When a repo is clicked show a new page with the last 10 commits related to that repo;
+- Find repos by any user, using an input text field;
 - Create your own UI/UX design, but responsive;
 - Use some features of ES6+;
 - Use HTML5 tags;
+- Create a Readme.md file with instructions to run the app;
 
 ## Feel free to
 
 - Use create-react-app;
 - Use any additional library;
-- Use Google
+- Use Typescript;
+- Use Styled Components;
+- Use Google;
 
 ## Submission instructions
 
-1. Fork this repository on github;
-2. Create the project as described above;
-3. Push all of your changes and create a PR against this repository;
-4. Edit this readme file with the instructions to run the project, and add any comments that you think is relevant.
+1. After finishing the test, put the users andretanaka and Hechprad as Colaborators
 
 ## Bonus
 
-- Find repos by any user, using an input text field;
-- When a repo is clicked show a new page with the last 10 commits related to that repo;
+- Host the website on the service of your choice;
 - Create a search field to filter the commits by the term inserted into the field;
 - Show us your work through your commit history;
-- Host the website on the service of your choice;
-- Use some state managing solution;
-- Hooks
+- Custom Hooks;
 
 ## Evaluation criteria
 
@@ -71,7 +70,7 @@ You can write us any time (whatsapp, email, or you can even call us)
 - Please, Do NOT copy the code from any of your trainee friends
 - Please, Do not ask for help to experienced friends or boy/girl friends
 - Code by yourself, we appreciate it
-- Submit your PR until September 5th (23:59)
+- Submit your code until August 7th (23:59)
 
 ## Good luck and Happy Coding!
 
